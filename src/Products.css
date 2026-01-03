@@ -1,0 +1,27 @@
+.card {
+  border: 2px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 300px;
+}
+div h2 { 
+  margin: auto;
+}
+
+.card img {
+  background-color: rgb(176, 176, 174);
+  width: 100%;
+}
+.btn-add {
+  background-color: black;
+  padding: 10px;
+  width: 100%;
+  color: white;
+}
+.p-justify {
+  text-align: justify;
+  padding: 5px;
+}
